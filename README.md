@@ -23,8 +23,8 @@ A machine learning-powered music recommendation system that uses Gaussian Mixtur
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/chc-tw/Spotify-Music-Suggestion.git
+cd Spotify-Music-Suggestion
 ```
 
 2. Install dependencies using Pipenv:
@@ -50,13 +50,11 @@ pipenv shell
 streamlit run app.py
 ```
 
-3. Open your browser and navigate to `http://localhost:8501`
+3. Enter your Spotify access token when prompted
 
-4. Enter your Spotify access token when prompted
+4. Input up to 5 songs with their respective artists
 
-5. Input up to 5 songs with their respective artists
-
-6. Click "Get Recommendations" to receive personalized song suggestions
+5. Click "Get Recommendations" to receive personalized song suggestions
 
 ## How It Works
 
