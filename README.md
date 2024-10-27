@@ -2,6 +2,9 @@
 
 A machine learning-powered music recommendation system that uses Gaussian Mixture Models (GMM) to suggest similar songs based on Spotify's audio features. The system analyzes musical characteristics like danceability, energy, tempo, and valence to find songs with similar acoustic properties.
 
+![Demo Image](img/demo.png)
+
+
 ## Features
 
 - Input up to 5 songs with their artists
